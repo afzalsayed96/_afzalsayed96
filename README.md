@@ -4,7 +4,5 @@
 
 </div>
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalsayed96&count_private=true&hide=Jupyter%20Notebook)
-
- </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalsayed96&count_private=true&hide=Jupyter%20Notebook" width="495px >
+</div>
